@@ -1,16 +1,50 @@
-## Hi there 👋
+Hi there! I'm Prathamesh Sutar
 
-<!--
-**prathameshsutar1904/prathameshsutar1904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 About Me
 
-Here are some ideas to get you started:
+I'm a passionate I.T. undergrad at Dr. D.Y. Patil ACS College.  
+Currently, I’m sharpening my skills in Web Development, Cloud Computing, and AI/ML, while actively exploring real-world applications through internships and projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 Lifelong learner and tech enthusiast
+- ✨ Interned in Front-End Development and AI/ML
+- ⚡ Focused on building impactful solutions with clean and efficient code
+
+---
+
+🎯 Interests
+
+- Web Development 
+- Cloud Computing
+- AI & Machine Learning
+- Tech Community Engagement & Open Source
+
+---
+
+🛠️ Tech Stack
+
+- Languages: Python, JavaScript, HTML5, CSS, Reactjs
+- Frameworks & Tools: Tailwind CSS, Git & GitHub, VS Code
+- Learning:  AWS Services
+
+---
+
+🤝 Collaborations
+
+I'm open to collaborate on:
+- Front-End Projects
+- Machine Learning Applications
+- Student Tech Communities
+- Internship & Hackathon Teams
+
+Feel free to connect if you're working on something exciting!
+
+---
+
+🌐 Connect with Me
+
+LinkedIn - https://www.linkedin.com/in/prathameshsutar/ 
+GitHub - https://github.com/prathameshsutar1904/
+
+---
+
+Turning ideas into code, and curiosity into capability.
