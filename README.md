@@ -43,6 +43,7 @@ Feel free to connect if you're working on something exciting!
 🌐 Connect with Me
 
 LinkedIn - https://www.linkedin.com/in/prathameshsutar/ 
+
 GitHub - https://github.com/prathameshsutar1904/
 
 ---
